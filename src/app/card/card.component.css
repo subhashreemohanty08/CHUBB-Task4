@@ -16,9 +16,13 @@
     text-align: center;
 }
 .weatherfont{
-    margin-left: 80px;
+    margin-left: 80px; 
+    background-color:blue;
+    text-decoration-color: white;
+    
 }
 
 .card{
-    margin: 4pc;
+   margin:4pc ; 
+
 }
